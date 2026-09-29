@@ -4,29 +4,29 @@ Welcome to my portfolio! This repository highlights my experience in Computer Vi
 
 ---
 
-## 🛠 Core Skills & Capabilities
+##  Core Skills & Capabilities
 
-### 📸 Computer Vision & Image Annotation
+###  Computer Vision & Image Annotation
 - **Bounding Box Annotation:** Labeling objects for object detection models (YOLO, Pascal VOC, COCO formats).
 - **Polygon & Segmentation:** Precise boundary tracing for complex shapes, instance segmentation, and edge details.
 - **Image Classification & Tagging:** Visual dataset categorization, attribute tagging, and scene identification.
 - **Quality Assurance & Verification:** Auditing annotations for tight bounding box fits, zero overlap errors, and edge-case accuracy.
 
-### 🤖 AI Training & Model Evaluation
+###  AI Training & Model Evaluation
 - **Instruction Following & Accuracy:** Evaluating AI model responses against precise prompt criteria and real-world facts.
 - **Response Ranking & Preferences:** Rating pair-wise model outputs for helpfulness, tone, clarity, and safety.
 - **Red Teaming & Safety Filtering:** Identifying model hallucinations, unsafe advice, or policy violations.
 
 ---
 
-## 🛠 Tools & Formats
+##  Tools & Formats
 
 - **Annotation Platforms:** CVAT, Label Studio, Roboflow, LabelImg.
 - **Data Formats:** JSON, COCO JSON, Pascal VOC XML, CSV, JSONL.
 
 ---
 
-## 🔍 Sample Work Breakdown
+##  Sample Work Breakdown
 
 ### 1. Object Detection & Quality Control
 - **Task:** Annotated multi-class object datasets using bounding boxes and polygons.
@@ -38,6 +38,6 @@ Welcome to my portfolio! This repository highlights my experience in Computer Vi
 
 ---
 
-## 📩 Contact
+##  Contact
 
 - **GitHub:** [@gitnett](https://github.com/gitnett)
