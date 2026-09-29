@@ -27,6 +27,7 @@ Welcome to my portfolio! This repository highlights my experience in Computer Vi
 ---
 
 ##  Sample Work Breakdown
+    ![Sample Image Annotation] (Screenshot%202026-09-29%20114936.png)
 
 ### 1. Object Detection & Quality Control
 - **Task:** Annotated multi-class object datasets using bounding boxes and polygons.
